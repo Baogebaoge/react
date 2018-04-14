@@ -1,0 +1,23 @@
+header {
+  width: 100%;
+  height: 44px;
+  background-color: #252525;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+  position: fixed;
+  top: 0; }
+  header span {
+    color: #ffffff;
+    font-size: 20px; }
+    header span:first-child {
+      width: 44px;
+      height: 100%;
+      text-align: center;
+      line-height: 44px; }
+    header span:last-child {
+      width: 44px;
+      height: 100%; }
+
+/* header*/
